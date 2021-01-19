@@ -1,0 +1,11 @@
+{
+  "core": "https://wordpress.org/latest.zip",
+  "themes": [
+    "./wp-content/themes/your-project"
+  ],
+  "port": 1000,
+  "testsPort": 1001,
+  "config": {
+    "WP_DEBUG_DISPLAY": true
+  }
+}
