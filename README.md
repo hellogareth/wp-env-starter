@@ -13,4 +13,4 @@ https://make.wordpress.org/core/2020/03/03/wp-env-simple-local-environments-for-
 ``npm install``
 
 ## Start your WordPress local environment
- `wp-env start`
+ `npm run wp-env start`
